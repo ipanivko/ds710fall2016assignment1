@@ -1,8 +1,15 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+My name is Igor Panivko
 2. Why are you interested in Data Science?
+I am economist by education and financial data specialist by experience. During the last five years I have become a Business Intelligence architect by building data warehouses and OLAP cubes and now I want to enhance my knowledge with predictive technologies and develop data-powered solutions.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I have learnt several programming languages myself. I am Microsoft certified professional in T-SQL which I use daily and I am also proficient in MDX (OLAP_querying language). During the last year through nemerous online courses I have developed my Python up to intermidiate level and use it primarily for research and data analysis. Also I have some basic knowledge of C# and VisualBasic.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I have taken fundamental courses in Math, Theory of Probability and Statistics during my undegraduate study. During the last two years I have been restoring and enhancing this knowledge by taking Machine Learning online Coursera courses and Khan Academy tutorials.
 5.  Do you have other experience with R or Python?
+I use Python primarily for data research and no experience with R.
 6.  What do you hope to learn in this class?
+I am going to make my Python knowledge my solid and need to learn R actually from scratch.
 7.  Is there anything else you would like to share with us?
+Not yet, thank you.
